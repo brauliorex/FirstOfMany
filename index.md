@@ -12,8 +12,7 @@ But I can also find it very difficult at time, and frustrating, I need to rememb
 
 - Breath
 - Reflect
-
--**Have FUN**
+- **Have FUN**
 
 ### Things that are important to me
 1. Family
