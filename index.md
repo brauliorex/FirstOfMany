@@ -1,29 +1,28 @@
-## Welcome to GitHub Pages
+# Welcome to my site
 
-You can use the [editor on GitHub](https://github.com/brauliorex/webtest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I will be adding some cool stuff, so stick around.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## So what's the point of it?
 
-### Markdown
+I'm looking to improve my technical ability and dive into areas that I have little experience in.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Tech is cool
 
-```markdown
-Syntax highlighted code block
+But I can also find it very difficult at time, and frustrating, I need to remember by staying cool things will get much cooler in turn!
 
-# Header 1
-## Header 2
-### Header 3
+- Breath
+- Reflect
+-**Have FUN**
 
-- Bulleted
-- List
+### Things that are important to me
+1. Family
+2. Technology
+3. Faith (yes)
+4. Optimism (Need to work on this one
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Here is a funny dog
+look at him
+![Image](https://i.ytimg.com/vi/OOFGdRmN70k/maxresdefault.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
