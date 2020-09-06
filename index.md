@@ -1,4 +1,4 @@
-# Welcome to my site
+# Hello, Hola, Hallo
 
 I will be adding some cool stuff, so stick around.
 
@@ -17,11 +17,11 @@ But I can also find it very difficult at time, and frustrating, I need to rememb
 ### Things that are important to me
 1. Family
 2. Technology
-3. Faith (yes)
-4. Optimism (Need to work on this one
+3. Faith 
+4. Optimism (Need to work on this one)
 
 ### Here is a funny dog
-look at him
+look at him isn't he terrifying
 ![Image](https://i.ytimg.com/vi/OOFGdRmN70k/maxresdefault.jpg)
 ```
 
