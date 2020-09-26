@@ -10,10 +10,6 @@ I'm looking to improve my technical ability and dive into areas that I have litt
 
 But I can also find it very difficult at time, and frustrating, I need to remember by staying cool things will get much cooler in turn!
 
-- Breath
-- Reflect
-- **Have FUN**
-
 ### Things that are important to me
 1. Family
 2. Technology
@@ -22,5 +18,5 @@ But I can also find it very difficult at time, and frustrating, I need to rememb
 
 ### Here is a funny dog
 look at him isn't he terrifying
-![Image](https://i.ytimg.com/vi/OOFGdRmN70k/maxresdefault.jpg)
+![Image](https://static.boredpanda.com/blog/wp-content/uploads/2020/01/5e25585b32090_f4k49p2onys31__700.jpg)
 ```
