@@ -17,6 +17,5 @@ But I can also find it very difficult at time, and frustrating, I need to rememb
 4. Optimism (Need to work on this one)
 
 ### Here is a funny dog
-look at him isn't he terrifying
 ![Image](https://static.boredpanda.com/blog/wp-content/uploads/2020/01/5e25585b32090_f4k49p2onys31__700.jpg)
 ```
